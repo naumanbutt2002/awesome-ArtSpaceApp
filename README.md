@@ -3,10 +3,10 @@ This app was made as a part of UI in Andrid Studio course in Google Developer Je
 Developed using Kotlin and Jetpack Compose in Android Studio 2023
 
 ## UI Design For Mobile:
-![IMG-20230709-WA0004](https://github.com/naumanbutt2002/awesome-ArtSpaceApp/assets/86490074/0029cd88-6b42-42ac-aa6b-7dec4f93ac77)
+![IMG-20230709-WA0004](https://github.com/naumanbutt2002/awesome-ArtSpaceApp/assets/86490074/0bbcc56a-26d9-4329-8f8a-75ecc16e52f3)
 
 ## UI Design For Tablet:
-![WhatsApp Image 2023-07-09 at 15 48 54](https://github.com/naumanbutt2002/awesome-ArtSpaceApp/assets/86490074/f922bd7b-4eb8-498b-bc45-16d067d6057a)
+![WhatsApp Image 2023-07-09 at 15 48 54](https://github.com/naumanbutt2002/awesome-ArtSpaceApp/assets/86490074/4610c4d0-58d4-4c3f-8850-6da488b19dc7)
 
 ## Installation Guide
 
